@@ -1,0 +1,9 @@
+{
+  "name": "TChargeChecker",
+  "description": "Checks compliance with the London T-charge requirements",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "latest",
+    "https": "latest"
+  }
+}
